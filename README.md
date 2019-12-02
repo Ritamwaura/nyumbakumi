@@ -53,12 +53,13 @@ either Sublime, Visual-Studio-Code or Atom.
   - Then click the local host link given to open the project on a browser ```http://127.0.0.1:8000/```.
 
 
-#### For more information read the following django and python documentation:
+## For more information read the following django and python documentation:
   - [DjangoDocumentation](https://docs.djangoproject.com/en/1.11/intro/install/)
   - [PythonDocumentation](https://www.python.org/doc/)
 
 
-### User Stories
+## User Stories
+
 ##### As a user, I would like to sign in with the application to start using.
 ##### As a user, I would like to set up a profile about me and a general location and my neighborhood name.
 ##### As a user, I would like to find a list of different businesses in my neighborhood.
