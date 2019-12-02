@@ -36,11 +36,13 @@ either Sublime, Visual-Studio-Code or Atom.
   - ```atom . or code .``` , according to the type of your text editor.
 
 ## Install virtual environment using python:
-  - ```python3.6 -m venv virtual```, check your project to confirm you have a folder called virtual,
+  - ```python3.7 -m venv virtual```, check your project to confirm you have a folder called virtual,
   - then activate it by running ```source virtual/bin/activate```
-##### To install the packages in the ```requirements.txt file```,
+
+## To install the packages in the ```requirements.txt file```,
   - ```pip install -r requirements.txt```  That will install all packages including Django.
-##### To open python shell:
+
+## To open python shell:
   - ```python3.6``` ,
   - ```import django```
   - And lastly ```django.get_version()``` to see and confirm the version of django installed.
