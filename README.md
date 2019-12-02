@@ -15,7 +15,9 @@ you need to install the following requirements
 
 ## Installation Process
 
-##### Download any text editor of your choice, either Sublime, Visual-Studio-Code or Atom.
+##### Download any text editor of your choice, 
+
+either Sublime, Visual-Studio-Code or Atom.
 ##### Install your preferred version of python
   - ```sudo apt-get install python3.7```.
   - ```python --version``` to confirm that python has been installed.
