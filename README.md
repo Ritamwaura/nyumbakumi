@@ -30,11 +30,12 @@ either Sublime, Visual-Studio-Code or Atom.
   - ```git clone https://github.com/Ritamwaura/nyumbakumi.git```.
 
 ## Move to your project directory:
-- ```cd NextDoor```.
+- ```cd Nyumbakumi```.
 
 ## Open the project on your terminal:
   - ```atom . or code .``` , according to the type of your text editor.
-##### Install virtual environment using python:
+
+## Install virtual environment using python:
   - ```python3.6 -m venv virtual```, check your project to confirm you have a folder called virtual,
   - then activate it by running ```source virtual/bin/activate```
 ##### To install the packages in the ```requirements.txt file```,
