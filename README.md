@@ -6,3 +6,9 @@ Nyumbakumi  is a web application that allow users to be in the loop about everyt
 
 ## Requirements
 you need to install the following requirements
+
+-text eitor
+-install virtual
+-install python
+-install setup Database
+-install django
